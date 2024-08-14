@@ -12,7 +12,7 @@ GUI Framework: [Specify the GUI framework used, e.g., Tkinter, PyQt, etc.]
 Installation
 Clone the repository:
 git clone https://github.com/Jenil1412/CALCULATOR.git
-cd CALCULATOR.py
+cd Calculator.py
 Install the required dependencies (if any):
 pip install -r requirements.txt
 Run the application:
