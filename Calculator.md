@@ -16,4 +16,4 @@ cd Calculator.py
 Install the required dependencies (if any):
 pip install -r requirements.txt
 Run the application:
-python calculator.py
+python Calculator.py
